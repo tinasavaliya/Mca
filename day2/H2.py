@@ -1,10 +1,10 @@
 laptops = [
-    {"name": "HP", "price": 25000},
-    {"name": "Lenovo", "price": 32000},
+    {"name": "HP", "price": 50000},
+    {"name": "Lenovo", "price": 29000},
     {"name": "Dell", "price": 41000},
     {"name": "Acer", "price": 48000},
     {"name": "ASUS", "price": 52000},
-    {"name": "MacBook Air", "price": 60000}
+    {"name": "MacBook Air", "price": 66000}
 ]
 first = 0
 last = len(laptops)-1
