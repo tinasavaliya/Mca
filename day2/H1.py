@@ -1,6 +1,6 @@
-block_list = ['renil@gmail.com', 'man@gmail.com', 'sujal@gmail.com', 'rudra@gmail.com']
+block_list = ['tina@gmail.com', 'prinsi@gmail.com', 'dhruv@gmail.com', 'atri@gmail.com']
 
-email = 'man@gmail.com'
+email = 'tina@gmail.com'
 
 if email not in block_list:
     print('its not spam email')
